@@ -1,4 +1,4 @@
-# 8986. 전봇대
+# 8986. [전봇대](https://www.acmicpc.net/problem/8986)
 
 문제 티어: 플레티넘 5
 
